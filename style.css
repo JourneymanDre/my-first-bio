@@ -1,0 +1,13 @@
+/* CSS files add styling rules to your content **/
+
+body {
+  
+  font-family: helvetica, arial, sans-serif;
+  margin: 15px;
+  padding: 0;
+  color: #8c8c8c;
+  background: white;
+  
+  line-height: 1.4;
+  
+}
